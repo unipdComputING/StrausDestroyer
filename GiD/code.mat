@@ -1,0 +1,19 @@
+MATERIAL: Prop
+TITLE: Type
+QUESTION: Truss#CB#(Truss,Beam)
+VALUE: 1
+TITLE: Material
+QUESTION: Elastic Modulus
+VALUE: 0.0 
+QUESTION: Poisson's Ratio
+VALUE: 0.0
+TITLE: Section
+QUESTION: Area
+VALUE: 0.0
+QUESTION: Inertia 11
+VALUE: 0.0
+QUESTION: Inertia 22
+VALUE: 0.0
+QUESTION: J
+VALUE: 0.0
+END MATERIAL

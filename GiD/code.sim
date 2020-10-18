@@ -1,0 +1,28 @@
+cond Node-Force
+1
+global
+1
+cond(real,1)
+cond(real,2)
+cond(real,3)
+symbols/arrow.geo
+cond Node-Momentum
+1
+global
+1
+cond(real,1)
+cond(real,2)
+cond(real,3)
+symbols/momentum.geo
+cond Node-BC
+1
+global
+1
+cond(real,1)
+cond(real,2)
+cond(real,3)
+symbols/constraint1_3d.geo
+cond(real,4)
+cond(real,5)
+cond(real,6)
+symbols/constraint2_3d.geo
